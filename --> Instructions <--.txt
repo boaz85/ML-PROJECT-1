@@ -1,0 +1,6 @@
+* Output.html includes full run of the code, including all reuiqred deliverables
+* To run the code:
+	1. pip install numpy, jupyter, matplotlib
+	2. Run jupyter notebook server (# jupyter notebook)
+	3. Open Project 1.ipynb
+	4. Execute all cells
