@@ -1,0 +1,15 @@
+{
+	"hyperparameters": {
+		"dim": 4,
+		"reg_users": 10,
+		"reg_movies": 10,
+		"reg_bias_users": 10,
+		"reg_bias_movies": 10
+	},
+	"algorithm": "SGD",
+	"algorithm_parameters": {
+		"step_size": 0.0007,
+		"epocs": 800000,
+		"stop_threshold": 100
+	}
+}
